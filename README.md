@@ -3,7 +3,7 @@
 ## Description
 Welcome to mock social media! MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data.
 
-Video link: https://www.loom.com/share/4916aec80d984bc88ca7dd668880093c?sid=6019b7ce-981b-4ead-91bd-d618e3c2bf93
+Video [link](https://www.loom.com/share/4916aec80d984bc88ca7dd668880093c?sid=6019b7ce-981b-4ead-91bd-d618e3c2bf93): 
 
 👾 Motivation: Because the foundation of these applications is data, it’s important to understand how to build and structure the API first...
 
