@@ -32,11 +32,7 @@ Future Features:
 1. Clone Git Repo
 2. Install all dependencies - npm i
 3. Edit folder structure and data to your personal preference
-
-
-![Mock-up]()
-
-Live link: 
+ 
 
 ## License
 MIT License
