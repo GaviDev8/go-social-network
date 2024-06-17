@@ -30,7 +30,6 @@ const thoughtSchema = new Schema(
     }
 );
 
-// likes on the things ppl post
 thoughtSchema
     .virtual('reactionCount')
     .get(function () {
